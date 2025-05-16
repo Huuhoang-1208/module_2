@@ -1,7 +1,7 @@
 package ss1_tong_quan_java.bai_tap;
 import java.util.Scanner;
 
-public class NumberReader {
+public class number_reader {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập số bạn muốn đọc: ");
