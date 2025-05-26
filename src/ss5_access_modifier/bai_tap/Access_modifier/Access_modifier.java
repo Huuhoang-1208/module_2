@@ -1,4 +1,4 @@
-package ss5_access_modifier.bai_tap;
+package ss5_access_modifier.bai_tap.Access_modifier;
 
 public class Access_modifier {
     public static class Circle {
